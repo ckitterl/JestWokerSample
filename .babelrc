@@ -1,0 +1,10 @@
+{
+  "env": {},
+  "ignore": [],
+  "plugins": [
+    "transform-async-to-generator"
+  ],
+  "presets": [
+    "env"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "jestworkersample",
+  "version": "1.0.0",
+  "private": "ture",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "jest-worker": "^23.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
